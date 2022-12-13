@@ -1,19 +1,19 @@
 # OIS
 
-casino --------- 5
+- [ ] casino --------- 5: 
 
-constarr ------- 5
+- [ ] constarr ------- 5
 
-f1 ------------- 1
+- [ ] f1 ------------- 1: volpi
 
-fossils -------- 4
+- [ ] fossils -------- 4
 
-intervals ------ 3
+- [ ] intervals ------ 3: d'aniello
 
-christmas ------ 2
+- [ ] christmas ------ 2: zini
 
-moltiplications  2
+- [ ] moltiplications  2: allegris
 
-railroad ------- 4
+- [ ] railroad ------- 4
 
-scoazze -------- 1
+- [ ] scoazze -------- 1: champa
