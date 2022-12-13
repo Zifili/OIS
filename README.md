@@ -12,8 +12,8 @@
 
 - [ ] christmas ------ 2: zini
 
-- [ ] moltiplications  2: allegris
+- [x] moltiplications  2: allegris
 
-- [ ] railroad ------- 4
+- [ ] railroad ------- 4: allegris
 
 - [ ] scoazze -------- 1: champa
